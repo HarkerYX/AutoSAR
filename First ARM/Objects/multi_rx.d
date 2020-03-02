@@ -1,0 +1,14 @@
+.\objects\multi_rx.o: multi_rx.c
+.\objects\multi_rx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\multi_rx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\multi_rx.o: inc/hw_can.h
+.\objects\multi_rx.o: inc/hw_memmap.h
+.\objects\multi_rx.o: inc/hw_ints.h
+.\objects\multi_rx.o: driverlib/can.h
+.\objects\multi_rx.o: driverlib/gpio.h
+.\objects\multi_rx.o: driverlib/interrupt.h
+.\objects\multi_rx.o: driverlib/pin_map.h
+.\objects\multi_rx.o: driverlib/sysctl.h
+.\objects\multi_rx.o: driverlib/uart.h
+.\objects\multi_rx.o: utils/uartstdio.h
+.\objects\multi_rx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

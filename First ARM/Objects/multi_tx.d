@@ -1,0 +1,14 @@
+.\objects\multi_tx.o: multi_tx.c
+.\objects\multi_tx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\multi_tx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\multi_tx.o: inc/hw_can.h
+.\objects\multi_tx.o: inc/hw_ints.h
+.\objects\multi_tx.o: inc/hw_memmap.h
+.\objects\multi_tx.o: driverlib/can.h
+.\objects\multi_tx.o: driverlib/gpio.h
+.\objects\multi_tx.o: driverlib/interrupt.h
+.\objects\multi_tx.o: driverlib/pin_map.h
+.\objects\multi_tx.o: driverlib/sysctl.h
+.\objects\multi_tx.o: driverlib/uart.h
+.\objects\multi_tx.o: utils/uartstdio.h
+.\objects\multi_tx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

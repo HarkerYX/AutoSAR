@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MemoryStack_Final", "MemoryStack_Final\MemoryStack_Final.cproj", "{443E8B45-E1D7-4C4C-9388-E0B379A2B92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443E8B45-E1D7-4C4C-9388-E0B379A2B92C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{443E8B45-E1D7-4C4C-9388-E0B379A2B92C}.Debug|AVR.Build.0 = Debug|AVR
+		{443E8B45-E1D7-4C4C-9388-E0B379A2B92C}.Release|AVR.ActiveCfg = Release|AVR
+		{443E8B45-E1D7-4C4C-9388-E0B379A2B92C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
